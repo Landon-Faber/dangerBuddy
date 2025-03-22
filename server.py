@@ -32,7 +32,7 @@ def processimage(inputimage):
     txt = clip.encode_text(enc(words).to(device)).to(device, dtype)
 
     cmp = (F.normalize(img) @ F.normalize(txt).T).T
-    out = F.softmax(cmp / 0.02, dim=0)
+    out = F.softmax(cmp / 0.03, dim=0)
     wch = torch.argmax(out, dim=0)[0].item()
     print(f"{words[wch]} -> {out[wch].item()}")
 
@@ -85,13 +85,13 @@ finally:
 # messages = [
 #     [
 #         {
-#             "role": "system",
-#             "content": [{"type": "text", "text": f"You are a buddy program written to help kids stay safe. Thier name is '{childname}'"},]
-#         },
-#         {
-#             "role": "user",
-#             "content": [{"type": "text", "text": "Tell your kid good morning using thier name."},]
-#         },
+#            "role": "system",
+#            "content": [{"type": "text", "text": f"You are a buddy program written to help kids stay safe. Tell the child what the '{words[chs[1][0]]}' is. Thier name is '{childname}'"},]
+#        },
+#        {
+#            "role": "user",
+#            "content": [{"type": "text", "text": "Tell the child what the highest danger is to them at the moment. Keep the response to one sentence."},]
+#        },
 #     ],
 # ]
 
