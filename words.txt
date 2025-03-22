@@ -1,0 +1,153 @@
+Car
+Bus
+Truck
+Motorcycle
+Bicycle
+Train
+Subway
+Tram
+Crosswalk
+Road
+Freeway
+Highway
+Street
+Sidewalk
+Parking lot
+Traffic light
+Stop sign
+Yield sign
+Speed bump
+Tunnel
+Bridge
+Railroad tracks
+Pedestrian crossing
+Construction vehicle
+Construction site
+Bulldozer
+Crane
+Excavator
+Jackhammer
+Hard hat
+Safety cone
+Scaffolding
+Ladder
+Elevator shaft
+Falling debris
+Pothole
+Open trench
+Barbed wire
+Chain-link fence
+Gas leak warning sign
+Knife
+Scissors
+Hammer
+Nails
+Saw
+Gun
+Crowbar
+Broken glass
+Razor blade
+Metal pipe
+Baseball bat
+Brick
+Sharp metal edge
+Syringe
+Rope
+Fire
+Smoke
+Flames
+Gas leak
+Explosion
+Flood
+Tornado
+Hurricane
+Lightning
+Landslide
+Earthquake
+Wildfire
+Avalanche
+Sandstorm
+Dog
+Cat
+Snake
+Spider
+Wasp
+Hornet
+Scorpion
+Rat
+Mouse
+Coyote
+Fox
+Bear
+Wolf
+Alligator
+Crocodile
+Shark
+Jellyfish
+Bat
+Poisonous frog
+Electrical outlet
+Power lines
+Stove
+Oven
+Microwave
+Toaster
+Space heater
+Hot water
+Iron
+Matches
+Lighter
+Candle
+Gas stove
+Extension cord
+Overloaded power strip
+Open drawer
+Sharp table edge
+Glass table
+Loose rug
+Slippery floor
+Unsecured bookshelf
+Plastic bag
+Pool
+River
+Lake
+Ocean
+Waterfall
+Cliff
+Dam
+Swamp
+Deep puddle
+Bathtub
+Sink
+Open well
+Balcony
+Window
+Rooftop
+Fire escape
+Escalator
+Elevator
+Staircase
+Open shaft
+Glass railing
+Unfinished building
+Unstable bridge
+Playground
+Swing
+Slide
+Seesaw
+Climbing frame
+Sandbox
+Merry-go-round
+Trampoline
+Skateboard
+Bicycle ramp
+Monkey bars
+Crowded area
+Protest
+Stampede
+Unattended bag
+ATM machine
+Dark alley
+Broken streetlight
+Stray dog
+Homeless encampment
