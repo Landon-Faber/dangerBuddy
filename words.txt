@@ -66,6 +66,7 @@ Landslide
 Earthquake
 Wildfire
 Avalanche
+Victor Norman
 Sandstorm
 Dog
 Cat
@@ -151,3 +152,5 @@ Dark alley
 Broken streetlight
 Stray dog
 Homeless encampment
+Profanity
+Middle finger
